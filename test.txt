@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is E21B-45DC
-
- Directory of C:\Users\Vaibhav A. Yadnik\Desktop\MyProject
-
-15-03-2020  15:50    <DIR>          .
-15-03-2020  15:50    <DIR>          ..
-15-03-2020  15:50                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  39,728,336,896 bytes free
+Hiiiiii
